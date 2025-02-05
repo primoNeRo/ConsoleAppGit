@@ -8,6 +8,7 @@
             Dado d = new Dado();
             int valore = d.Lancia();
             Console.WriteLine(valore);
+            Console.WriteLine("Ciao bro");
         }
    }
 }
