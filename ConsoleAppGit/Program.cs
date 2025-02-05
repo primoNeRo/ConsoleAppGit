@@ -9,6 +9,7 @@
             int valore = d.Lancia();
             Console.WriteLine(valore);
             Console.WriteLine("Ciao bro");
+            Console.WriteLine("Ciaaaoooo bvrooooo");
         }
    }
 }
